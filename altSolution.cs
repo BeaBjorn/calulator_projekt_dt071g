@@ -1,3 +1,9 @@
+// /* 
+//     Projektuppgift för kursen DT071G
+//     Student: Beatrce Björn
+//     Senast uppdaterad: 2023-01-03
+// */
+
 // // Including namespaces
 // using Newtonsoft.Json;
 // using NCalc;

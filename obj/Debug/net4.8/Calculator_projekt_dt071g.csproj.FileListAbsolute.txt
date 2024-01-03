@@ -1,0 +1,6 @@
+/Users/beatricebjorn/Desktop/year_two/c#/Calculator_projekt_dt071g/obj/Debug/net4.8/Calculator_projekt_dt071g.csproj.AssemblyReference.cache
+/Users/beatricebjorn/Desktop/year_two/c#/Calculator_projekt_dt071g/obj/Debug/net4.8/Calculator_projekt_dt071g.csproj.SuggestedBindingRedirects.cache
+/Users/beatricebjorn/Desktop/year_two/c#/Calculator_projekt_dt071g/obj/Debug/net4.8/Calculator_projekt_dt071g.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beatricebjorn/Desktop/year_two/c#/Calculator_projekt_dt071g/obj/Debug/net4.8/Calculator_projekt_dt071g.AssemblyInfoInputs.cache
+/Users/beatricebjorn/Desktop/year_two/c#/Calculator_projekt_dt071g/obj/Debug/net4.8/Calculator_projekt_dt071g.AssemblyInfo.cs
+/Users/beatricebjorn/Desktop/year_two/c#/Calculator_projekt_dt071g/obj/Debug/net4.8/Calculator_projekt_dt071g.csproj.CoreCompileInputs.cache

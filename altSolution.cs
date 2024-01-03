@@ -71,6 +71,7 @@
 //         // The "EmptyJson" function clears history and sets the data in the json-file to an empty array
 //         private void emptyJson()
 //         {
+//             history.Clear();
 //             File.WriteAllText(jsonFile, "[]");
 //         }
 
